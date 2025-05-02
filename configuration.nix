@@ -46,6 +46,7 @@
     vim
     wget
     htop
+    btop
     neofetch
     python3
     gcc
